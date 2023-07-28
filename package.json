@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node build/index.js",
     "dev": "nodemon build/index.js",
+    "build": "tsc",
     "watch": "tsc -w"
   },
   "keywords": [],
