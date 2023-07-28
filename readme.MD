@@ -15,3 +15,5 @@ To use the JSON Parser in your project, follow these steps:
 3. Build the project using `npm run build`
 4. Run the parser using `npm run start`
 5. JSON representation is displayed in the terminal
+
+Resource : https://www.json.org/json-en.html,
